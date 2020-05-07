@@ -1,8 +1,3 @@
-Changed Div to header.
-In CSS deleted h1 .seo and moved color to .header h1
-Added a title of company name Horiseon Social Solution Services
-Deleted IDs on 36 and 43.
-Changed to div to nav in HTML and CSS
-Changed 27 to figure
-Added alts to all images.
+#Horiseon Website Optimization
 
+##Optimized code to meet be more accessible to client. Included a title of the company. Cleaned up code to semantic HTML elements. Added Alts to all images. Merged some css element properties to be more in flow. Added ID tags for navigation of page. 
